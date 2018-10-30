@@ -14,6 +14,9 @@
 		F51C2BB321882BAF00238857 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F51C2BB221882BAF00238857 /* Assets.xcassets */; };
 		F51C2BB621882BAF00238857 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F51C2BB421882BAF00238857 /* LaunchScreen.storyboard */; };
 		F51C2BC121882BAF00238857 /* journeyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51C2BC021882BAF00238857 /* journeyTests.swift */; };
+		F5CAC159218833DF00A14895 /* Log.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC158218833DF00A14895 /* Log.swift */; };
+		F5CAC15B2188359A00A14895 /* TripInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC15A2188359A00A14895 /* TripInfoModel.swift */; };
+		F5CAC15D218835E200A14895 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC15C218835E200A14895 /* Utilities.swift */; };
 		F6420E0AFEFC1DD53D4CAAA1 /* Pods_journey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 834945DB56CC289C544A9B2A /* Pods_journey.framework */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +47,9 @@
 		F51C2BBC21882BAF00238857 /* journeyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = journeyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F51C2BC021882BAF00238857 /* journeyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = journeyTests.swift; sourceTree = "<group>"; };
 		F51C2BC221882BAF00238857 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5CAC158218833DF00A14895 /* Log.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Log.swift; sourceTree = "<group>"; };
+		F5CAC15A2188359A00A14895 /* TripInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripInfoModel.swift; sourceTree = "<group>"; };
+		F5CAC15C218835E200A14895 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +149,7 @@
 		F5CAC14F218830BC00A14895 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC15A2188359A00A14895 /* TripInfoModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -168,6 +175,8 @@
 		F5CAC152218830D300A14895 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC158218833DF00A14895 /* Log.swift */,
+				F5CAC15C218835E200A14895 /* Utilities.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -401,6 +410,9 @@
 			files = (
 				F51C2BAE21882BAD00238857 /* ViewController.swift in Sources */,
 				F51C2BAC21882BAD00238857 /* AppDelegate.swift in Sources */,
+				F5CAC15B2188359A00A14895 /* TripInfoModel.swift in Sources */,
+				F5CAC15D218835E200A14895 /* Utilities.swift in Sources */,
+				F5CAC159218833DF00A14895 /* Log.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
