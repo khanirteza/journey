@@ -1,0 +1,252 @@
+{
+	"greetings": [
+				  {
+				  "greeting": "Hallo",
+				  "language": "Afrikaans"
+				  },
+				  {
+				  "greeting": "Mirë dita",
+				  "language": "Albanian"
+				  },
+				  {
+				  "greeting": "ታዲያስ (tadiyas)",
+				  "language": "Amharic"
+				  },
+				  {
+				  "greeting": "مَرْحَبًا (marhabaa)",
+				  "language": "Arabic"
+				  },
+				  {
+				  "greeting": "سلام (salam)",
+				  "language": "Azerbaijani"
+				  },
+				  {
+				  "greeting": "নমস্কার (nomoshkaar)",
+				  "language": "Bangla"
+				  },
+				  {
+				  "greeting": "Zdravo",
+				  "language": "Bosnian"
+				  },
+				  {
+				  "greeting": "Здрасти (zdrasti)",
+				  "language": "Bulgarian"
+				  },
+				  {
+				  "greeting": "Bok",
+				  "language": "Croatian"
+				  },
+				  {
+				  "greeting": "Ahoj",
+				  "language": "Czech"
+				  },
+				  {
+				  "greeting": "Hej",
+				  "language": "Danish"
+				  },
+				  {
+				  "greeting": "Hallo",
+				  "language": "Dutch"
+				  },
+				  {
+				  "greeting": "Hello",
+				  "language": "English"
+				  },
+				  {
+				  "greeting": "Saluton",
+				  "language": "Esperanto"
+				  },
+				  {
+				  "greeting": "Tere",
+				  "language": "Estonian"
+				  },
+				  {
+				  "greeting": "سلام (salaam)",
+				  "language": "Farsi"
+				  },
+				  {
+				  "greeting": "Bula",
+				  "language": "Fijian"
+				  },
+				  {
+				  "greeting": "Terve",
+				  "language": "Finnish"
+				  },
+				  {
+				  "greeting": "Bonjour",
+				  "language": "French"
+				  },
+				  {
+				  "greeting": "Hallo",
+				  "language": "German"
+				  },
+				  {
+				  "greeting": "Γεια σου (yiassoo)",
+				  "language": "Greek"
+				  },
+				  {
+				  "greeting": "Aloha",
+				  "language": "Hawaiian"
+				  },
+				  {
+				  "greeting": "שלום (shalom)",
+				  "language": "Hebrew"
+				  },
+				  {
+				  "greeting": "नमस्ते (namastē)",
+				  "language": "Hindi"
+				  },
+				  {
+				  "greeting": "Sziasztok",
+				  "language": "Hungarian"
+				  },
+				  {
+				  "greeting": "Halo",
+				  "language": "Indonesian"
+				  },
+				  {
+				  "greeting": "Dia dhaoibh",
+				  "language": "Irish"
+				  },
+				  {
+				  "greeting": "Ciao",
+				  "language": "Italian"
+				  },
+				  {
+				  "greeting": "こんにちは (Kon'nichiwa)",
+				  "language": "Japanese"
+				  },
+				  {
+				  "greeting": "ನಮಸ್ಕಾರ (namaskār)",
+				  "language": "Kannada"
+				  },
+				  {
+				  "greeting": "ជំរាបសួរ (cham reap sour)",
+				  "language": "Khmer"
+				  },
+				  {
+				  "greeting": "안녕 (an-nyeong-ha-se-yo )",
+				  "language": "Korean"
+				  },
+				  {
+				  "greeting": "ສະບາຍດີ (sabaai-dii)",
+				  "language": "Lao"
+				  },
+				  {
+				  "greeting": "Salvete",
+				  "language": "Latin"
+				  },
+				  {
+				  "greeting": "Sveiki",
+				  "language": "Latvian"
+				  },
+				  {
+				  "greeting": "Hallau",
+				  "language": "Limburgish"
+				  },
+				  {
+				  "greeting": "Sveiki",
+				  "language": "Lithuanian"
+				  },
+				  {
+				  "greeting": "Добар ден (dobar den)",
+				  "language": "Macedonian"
+				  },
+				  {
+				  "greeting": "Selamat tengahari",
+				  "language": "Malaysian"
+				  },
+				  {
+				  "greeting": "Ħelow",
+				  "language": "Maltese"
+				  },
+				  {
+				  "greeting": "你好 (nǐ hǎo)",
+				  "language": "Mandarin Chinese"
+				  },
+				  {
+				  "greeting": "Kia ora",
+				  "language": "Maori"
+				  },
+				  {
+				  "greeting": "Hei",
+				  "language": "Norwegian"
+				  },
+				  {
+				  "greeting": "ନମସ୍କାର (namaskār)",
+				  "language": "Odia"
+				  },
+				  {
+				  "greeting": "Cześć (hej)",
+				  "language": "Polish"
+				  },
+				  {
+				  "greeting": "Oi",
+				  "language": "Portuguese"
+				  },
+				  {
+				  "greeting": "Alo",
+				  "language": "Romanian"
+				  },
+				  {
+				  "greeting": "Здравствуйте (zdrahstvootye)",
+				  "language": "Russian"
+				  },
+				  {
+				  "greeting": "Haló",
+				  "language": "Scottish Gaelic"
+				  },
+				  {
+				  "greeting": "Здраво (zdravo)",
+				  "language": "Serbian"
+				  },
+				  {
+				  "greeting": "侬好 (noŋ hɔ)",
+				  "language": "Shanghainese"
+				  },
+				  {
+				  "greeting": "Ahoj",
+				  "language": "Slovak"
+				  },
+				  {
+				  "greeting": "Hola",
+				  "language": "Spanish"
+				  },
+				  {
+				  "greeting": "Grüss Gott",
+				  "language": "Swabian"
+				  },
+				  {
+				  "greeting": "Hujambo",
+				  "language": "Swahili"
+				  },
+				  {
+				  "greeting": "Hoi",
+				  "language": "Swiss German"
+				  },
+				  {
+				  "greeting": "வனக்கம் (vanakkam)",
+				  "language": "Tamil"
+				  },
+				  {
+				  "greeting": "నమస్కారం (namaskāram)",
+				  "language": "Telugu"
+				  },
+				  {
+				  "greeting": "Merhaba",
+				  "language": "Turkish"
+				  },
+				  {
+				  "greeting": "Xin chào",
+				  "language": "Vietnamese"
+				  },
+				  {
+				  "greeting": "Womenjeka",
+				  "language": "Woiworung"
+				  },
+				  {
+				  "greeting": "שלום (Sholem)",
+				  "language": "Yiddish"
+				  }
+				  ]
+}

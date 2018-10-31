@@ -11,9 +11,55 @@
 		F51C2BAC21882BAD00238857 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51C2BAB21882BAD00238857 /* AppDelegate.swift */; };
 		F51C2BAE21882BAD00238857 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51C2BAD21882BAD00238857 /* ViewController.swift */; };
 		F51C2BB121882BAD00238857 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F51C2BAF21882BAD00238857 /* Main.storyboard */; };
-		F51C2BB321882BAF00238857 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F51C2BB221882BAF00238857 /* Assets.xcassets */; };
 		F51C2BB621882BAF00238857 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F51C2BB421882BAF00238857 /* LaunchScreen.storyboard */; };
 		F51C2BC121882BAF00238857 /* journeyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F51C2BC021882BAF00238857 /* journeyTests.swift */; };
+		F5CAC159218833DF00A14895 /* Log.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC158218833DF00A14895 /* Log.swift */; };
+		F5CAC15B2188359A00A14895 /* TripInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC15A2188359A00A14895 /* TripInfoModel.swift */; };
+		F5CAC15D218835E200A14895 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC15C218835E200A14895 /* Utilities.swift */; };
+		F5CAC15F21883E5C00A14895 /* CommuteInfoCardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC15E21883E5C00A14895 /* CommuteInfoCardView.xib */; };
+		F5CAC16121883EB900A14895 /* JourneyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16021883EB900A14895 /* JourneyTextField.swift */; };
+		F5CAC16321883EFE00A14895 /* JourneyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16221883EFE00A14895 /* JourneyButton.swift */; };
+		F5CAC16521883F1F00A14895 /* JourneyAddressSelectionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16421883F1F00A14895 /* JourneyAddressSelectionButton.swift */; };
+		F5CAC16721883F3700A14895 /* SearchResultTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16621883F3700A14895 /* SearchResultTableViewCell.swift */; };
+		F5CAC16921883F4500A14895 /* JourneyHeadlineLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16821883F4500A14895 /* JourneyHeadlineLabel.swift */; };
+		F5CAC16B21883F4F00A14895 /* JourneyBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16A21883F4F00A14895 /* JourneyBodyLabel.swift */; };
+		F5CAC16D21883F5700A14895 /* JourneyGreenLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16C21883F5700A14895 /* JourneyGreenLabel.swift */; };
+		F5CAC16F21883F6300A14895 /* JourneyPopupHeadLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC16E21883F6300A14895 /* JourneyPopupHeadLabel.swift */; };
+		F5CAC17121883F6D00A14895 /* JourneySmallBodyLable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17021883F6D00A14895 /* JourneySmallBodyLable.swift */; };
+		F5CAC17321883F7500A14895 /* JourneyTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17221883F7500A14895 /* JourneyTitleLabel.swift */; };
+		F5CAC17521883F7C00A14895 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17421883F7C00A14895 /* CardView.swift */; };
+		F5CAC17721883F8A00A14895 /* CommuteInfoCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17621883F8A00A14895 /* CommuteInfoCardView.swift */; };
+		F5CAC17921883F9800A14895 /* CommuteCardTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17821883F9800A14895 /* CommuteCardTableViewCell.swift */; };
+		F5CAC17B21883FA300A14895 /* TimelineRegularTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17A21883FA300A14895 /* TimelineRegularTableViewCell.swift */; };
+		F5CAC17D21883FB000A14895 /* ArchivedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC17C21883FB000A14895 /* ArchivedTableViewCell.swift */; };
+		F5CAC18021883FD500A14895 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC17E21883FD400A14895 /* Main.storyboard */; };
+		F5CAC18121883FD500A14895 /* Misc.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC17F21883FD500A14895 /* Misc.storyboard */; };
+		F5CAC18321883FE900A14895 /* greetings.json in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC18221883FE900A14895 /* greetings.json */; };
+		F5CAC1862188401D00A14895 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1842188401C00A14895 /* Assets.xcassets */; };
+		F5CAC1872188401D00A14895 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1852188401D00A14895 /* Colors.xcassets */; };
+		F5CAC1892188425800A14895 /* MainTabVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC1882188425800A14895 /* MainTabVC.swift */; };
+		F5CAC18B2188427300A14895 /* JourneyPlanningVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC18A2188427300A14895 /* JourneyPlanningVC.swift */; };
+		F5CAC18D2188429000A14895 /* ProfileTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC18C2188429000A14895 /* ProfileTVC.swift */; };
+		F5CAC18F218842AA00A14895 /* TimeSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC18E218842AA00A14895 /* TimeSelectionVC.swift */; };
+		F5CAC191218842BB00A14895 /* TripDetailsTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC190218842BB00A14895 /* TripDetailsTVC.swift */; };
+		F5CAC193218845B000A14895 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC192218845B000A14895 /* APIManager.swift */; };
+		F5CAC1952188468600A14895 /* AddressSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC1942188468600A14895 /* AddressSelectionVC.swift */; };
+		F5CAC1972188476C00A14895 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC1962188476C00A14895 /* Extension.swift */; };
+		F5CAC19921884B1E00A14895 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19821884B1E00A14895 /* Keys.plist */; };
+		F5CAC1A921884D1000A14895 /* CalibreTest-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */; };
+		F5CAC1AA21884D1000A14895 /* CalibreTest-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */; };
+		F5CAC1AB21884D1000A14895 /* CalibreTest-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */; };
+		F5CAC1AC21884D1000A14895 /* CalibreTest-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */; };
+		F5CAC1AD21884D1000A14895 /* CalibreTest-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */; };
+		F5CAC1AE21884D1000A14895 /* CalibreTest-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */; };
+		F5CAC1AF21884D1000A14895 /* CalibreTest-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */; };
+		F5CAC1B021884D1000A14895 /* CalibreTest-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */; };
+		F5CAC1B121884D1000A14895 /* CalibreTest-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */; };
+		F5CAC1B221884D1000A14895 /* CalibreTest-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */; };
+		F5CAC1B321884D1000A14895 /* CalibreTest-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */; };
+		F5CAC1B421884D1000A14895 /* CalibreTest-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */; };
+		F5CAC1B521884D1000A14895 /* CalibreTest-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */; };
+		F5CAC1B621884D1000A14895 /* CalibreTest-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */; };
 		F6420E0AFEFC1DD53D4CAAA1 /* Pods_journey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 834945DB56CC289C544A9B2A /* Pods_journey.framework */; };
 /* End PBXBuildFile section */
 
@@ -38,12 +84,58 @@
 		F51C2BAB21882BAD00238857 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F51C2BAD21882BAD00238857 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F51C2BB021882BAD00238857 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F51C2BB221882BAF00238857 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F51C2BB521882BAF00238857 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F51C2BB721882BAF00238857 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F51C2BBC21882BAF00238857 /* journeyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = journeyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F51C2BC021882BAF00238857 /* journeyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = journeyTests.swift; sourceTree = "<group>"; };
 		F51C2BC221882BAF00238857 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5CAC158218833DF00A14895 /* Log.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Log.swift; sourceTree = "<group>"; };
+		F5CAC15A2188359A00A14895 /* TripInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripInfoModel.swift; sourceTree = "<group>"; };
+		F5CAC15C218835E200A14895 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		F5CAC15E21883E5C00A14895 /* CommuteInfoCardView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CommuteInfoCardView.xib; sourceTree = "<group>"; };
+		F5CAC16021883EB900A14895 /* JourneyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyTextField.swift; sourceTree = "<group>"; };
+		F5CAC16221883EFE00A14895 /* JourneyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyButton.swift; sourceTree = "<group>"; };
+		F5CAC16421883F1F00A14895 /* JourneyAddressSelectionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyAddressSelectionButton.swift; sourceTree = "<group>"; };
+		F5CAC16621883F3700A14895 /* SearchResultTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultTableViewCell.swift; sourceTree = "<group>"; };
+		F5CAC16821883F4500A14895 /* JourneyHeadlineLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyHeadlineLabel.swift; sourceTree = "<group>"; };
+		F5CAC16A21883F4F00A14895 /* JourneyBodyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyBodyLabel.swift; sourceTree = "<group>"; };
+		F5CAC16C21883F5700A14895 /* JourneyGreenLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyGreenLabel.swift; sourceTree = "<group>"; };
+		F5CAC16E21883F6300A14895 /* JourneyPopupHeadLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyPopupHeadLabel.swift; sourceTree = "<group>"; };
+		F5CAC17021883F6D00A14895 /* JourneySmallBodyLable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneySmallBodyLable.swift; sourceTree = "<group>"; };
+		F5CAC17221883F7500A14895 /* JourneyTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyTitleLabel.swift; sourceTree = "<group>"; };
+		F5CAC17421883F7C00A14895 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		F5CAC17621883F8A00A14895 /* CommuteInfoCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommuteInfoCardView.swift; sourceTree = "<group>"; };
+		F5CAC17821883F9800A14895 /* CommuteCardTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommuteCardTableViewCell.swift; sourceTree = "<group>"; };
+		F5CAC17A21883FA300A14895 /* TimelineRegularTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimelineRegularTableViewCell.swift; sourceTree = "<group>"; };
+		F5CAC17C21883FB000A14895 /* ArchivedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchivedTableViewCell.swift; sourceTree = "<group>"; };
+		F5CAC17E21883FD400A14895 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		F5CAC17F21883FD500A14895 /* Misc.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Misc.storyboard; sourceTree = "<group>"; };
+		F5CAC18221883FE900A14895 /* greetings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = greetings.json; sourceTree = "<group>"; };
+		F5CAC1842188401C00A14895 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F5CAC1852188401D00A14895 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		F5CAC1882188425800A14895 /* MainTabVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabVC.swift; sourceTree = "<group>"; };
+		F5CAC18A2188427300A14895 /* JourneyPlanningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyPlanningVC.swift; sourceTree = "<group>"; };
+		F5CAC18C2188429000A14895 /* ProfileTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTVC.swift; sourceTree = "<group>"; };
+		F5CAC18E218842AA00A14895 /* TimeSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeSelectionVC.swift; sourceTree = "<group>"; };
+		F5CAC190218842BB00A14895 /* TripDetailsTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripDetailsTVC.swift; sourceTree = "<group>"; };
+		F5CAC192218845B000A14895 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		F5CAC1942188468600A14895 /* AddressSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressSelectionVC.swift; sourceTree = "<group>"; };
+		F5CAC1962188476C00A14895 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		F5CAC19821884B1E00A14895 /* Keys.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
+		F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Thin.otf"; sourceTree = "<group>"; };
+		F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Black.otf"; sourceTree = "<group>"; };
+		F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-RegularItalic.otf"; sourceTree = "<group>"; };
+		F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-LightItalic.otf"; sourceTree = "<group>"; };
+		F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-SemiboldItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Medium.otf"; sourceTree = "<group>"; };
+		F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Light.otf"; sourceTree = "<group>"; };
+		F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-MediumItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Bold.otf"; sourceTree = "<group>"; };
+		F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-BoldItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Semibold.otf"; sourceTree = "<group>"; };
+		F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-ThinItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Regular.otf"; sourceTree = "<group>"; };
+		F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-BlackItalic.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +207,7 @@
 				F5CAC152218830D300A14895 /* Helper */,
 				F5CAC153218830D900A14895 /* Data */,
 				F5CAC14E2188307A00A14895 /* Supporting Files */,
-				F5CAC154218830F400A14895 /* Assets */,
+				F5CAC154218830F400A14895 /* Resources */,
 				F51C2BAF21882BAD00238857 /* Main.storyboard */,
 				F51C2BB421882BAF00238857 /* LaunchScreen.storyboard */,
 			);
@@ -136,6 +228,7 @@
 			children = (
 				F51C2BAB21882BAD00238857 /* AppDelegate.swift */,
 				F51C2BB721882BAF00238857 /* Info.plist */,
+				F5CAC19821884B1E00A14895 /* Keys.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -143,6 +236,7 @@
 		F5CAC14F218830BC00A14895 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC15A2188359A00A14895 /* TripInfoModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -151,6 +245,12 @@
 			isa = PBXGroup;
 			children = (
 				F51C2BAD21882BAD00238857 /* ViewController.swift */,
+				F5CAC1882188425800A14895 /* MainTabVC.swift */,
+				F5CAC18A2188427300A14895 /* JourneyPlanningVC.swift */,
+				F5CAC18C2188429000A14895 /* ProfileTVC.swift */,
+				F5CAC18E218842AA00A14895 /* TimeSelectionVC.swift */,
+				F5CAC190218842BB00A14895 /* TripDetailsTVC.swift */,
+				F5CAC1942188468600A14895 /* AddressSelectionVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -168,6 +268,10 @@
 		F5CAC152218830D300A14895 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC158218833DF00A14895 /* Log.swift */,
+				F5CAC15C218835E200A14895 /* Utilities.swift */,
+				F5CAC192218845B000A14895 /* APIManager.swift */,
+				F5CAC1962188476C00A14895 /* Extension.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -175,21 +279,25 @@
 		F5CAC153218830D900A14895 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC18221883FE900A14895 /* greetings.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
 		};
-		F5CAC154218830F400A14895 /* Assets */ = {
+		F5CAC154218830F400A14895 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				F51C2BB221882BAF00238857 /* Assets.xcassets */,
+				F5CAC1842188401C00A14895 /* Assets.xcassets */,
+				F5CAC1852188401D00A14895 /* Colors.xcassets */,
+				F5CAC19A21884CD000A14895 /* Calibre */,
 			);
-			path = Assets;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		F5CAC1552188311600A14895 /* Xib */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC15E21883E5C00A14895 /* CommuteInfoCardView.xib */,
 			);
 			path = Xib;
 			sourceTree = "<group>";
@@ -197,6 +305,21 @@
 		F5CAC1562188311E00A14895 /* Class */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC16021883EB900A14895 /* JourneyTextField.swift */,
+				F5CAC16221883EFE00A14895 /* JourneyButton.swift */,
+				F5CAC16421883F1F00A14895 /* JourneyAddressSelectionButton.swift */,
+				F5CAC16621883F3700A14895 /* SearchResultTableViewCell.swift */,
+				F5CAC16821883F4500A14895 /* JourneyHeadlineLabel.swift */,
+				F5CAC16A21883F4F00A14895 /* JourneyBodyLabel.swift */,
+				F5CAC16C21883F5700A14895 /* JourneyGreenLabel.swift */,
+				F5CAC16E21883F6300A14895 /* JourneyPopupHeadLabel.swift */,
+				F5CAC17021883F6D00A14895 /* JourneySmallBodyLable.swift */,
+				F5CAC17221883F7500A14895 /* JourneyTitleLabel.swift */,
+				F5CAC17421883F7C00A14895 /* CardView.swift */,
+				F5CAC17621883F8A00A14895 /* CommuteInfoCardView.swift */,
+				F5CAC17821883F9800A14895 /* CommuteCardTableViewCell.swift */,
+				F5CAC17A21883FA300A14895 /* TimelineRegularTableViewCell.swift */,
+				F5CAC17C21883FB000A14895 /* ArchivedTableViewCell.swift */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -204,8 +327,31 @@
 		F5CAC1572188312300A14895 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				F5CAC17E21883FD400A14895 /* Main.storyboard */,
+				F5CAC17F21883FD500A14895 /* Misc.storyboard */,
 			);
 			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		F5CAC19A21884CD000A14895 /* Calibre */ = {
+			isa = PBXGroup;
+			children = (
+				F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */,
+				F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */,
+				F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */,
+				F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */,
+				F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */,
+				F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */,
+				F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */,
+				F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */,
+				F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */,
+				F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */,
+				F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */,
+				F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */,
+				F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */,
+				F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */,
+			);
+			path = Calibre;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,9 +438,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CAC1872188401D00A14895 /* Colors.xcassets in Resources */,
+				F5CAC18121883FD500A14895 /* Misc.storyboard in Resources */,
 				F51C2BB621882BAF00238857 /* LaunchScreen.storyboard in Resources */,
-				F51C2BB321882BAF00238857 /* Assets.xcassets in Resources */,
+				F5CAC18321883FE900A14895 /* greetings.json in Resources */,
+				F5CAC18021883FD500A14895 /* Main.storyboard in Resources */,
+				F5CAC1B321884D1000A14895 /* CalibreTest-Semibold.otf in Resources */,
+				F5CAC1B121884D1000A14895 /* CalibreTest-Regular.otf in Resources */,
 				F51C2BB121882BAD00238857 /* Main.storyboard in Resources */,
+				F5CAC1B421884D1000A14895 /* CalibreTest-SemiboldItalic.otf in Resources */,
+				F5CAC1B521884D1000A14895 /* CalibreTest-Thin.otf in Resources */,
+				F5CAC1AA21884D1000A14895 /* CalibreTest-BlackItalic.otf in Resources */,
+				F5CAC1AC21884D1000A14895 /* CalibreTest-BoldItalic.otf in Resources */,
+				F5CAC1AB21884D1000A14895 /* CalibreTest-Bold.otf in Resources */,
+				F5CAC1A921884D1000A14895 /* CalibreTest-Black.otf in Resources */,
+				F5CAC19921884B1E00A14895 /* Keys.plist in Resources */,
+				F5CAC1B621884D1000A14895 /* CalibreTest-ThinItalic.otf in Resources */,
+				F5CAC1B021884D1000A14895 /* CalibreTest-MediumItalic.otf in Resources */,
+				F5CAC1B221884D1000A14895 /* CalibreTest-RegularItalic.otf in Resources */,
+				F5CAC1AD21884D1000A14895 /* CalibreTest-Light.otf in Resources */,
+				F5CAC1862188401D00A14895 /* Assets.xcassets in Resources */,
+				F5CAC1AF21884D1000A14895 /* CalibreTest-Medium.otf in Resources */,
+				F5CAC1AE21884D1000A14895 /* CalibreTest-LightItalic.otf in Resources */,
+				F5CAC15F21883E5C00A14895 /* CommuteInfoCardView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,8 +565,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5CAC17321883F7500A14895 /* JourneyTitleLabel.swift in Sources */,
+				F5CAC16121883EB900A14895 /* JourneyTextField.swift in Sources */,
+				F5CAC16B21883F4F00A14895 /* JourneyBodyLabel.swift in Sources */,
 				F51C2BAE21882BAD00238857 /* ViewController.swift in Sources */,
+				F5CAC17921883F9800A14895 /* CommuteCardTableViewCell.swift in Sources */,
+				F5CAC16521883F1F00A14895 /* JourneyAddressSelectionButton.swift in Sources */,
+				F5CAC191218842BB00A14895 /* TripDetailsTVC.swift in Sources */,
+				F5CAC1952188468600A14895 /* AddressSelectionVC.swift in Sources */,
 				F51C2BAC21882BAD00238857 /* AppDelegate.swift in Sources */,
+				F5CAC17721883F8A00A14895 /* CommuteInfoCardView.swift in Sources */,
+				F5CAC16F21883F6300A14895 /* JourneyPopupHeadLabel.swift in Sources */,
+				F5CAC193218845B000A14895 /* APIManager.swift in Sources */,
+				F5CAC15B2188359A00A14895 /* TripInfoModel.swift in Sources */,
+				F5CAC18D2188429000A14895 /* ProfileTVC.swift in Sources */,
+				F5CAC18B2188427300A14895 /* JourneyPlanningVC.swift in Sources */,
+				F5CAC16321883EFE00A14895 /* JourneyButton.swift in Sources */,
+				F5CAC16D21883F5700A14895 /* JourneyGreenLabel.swift in Sources */,
+				F5CAC15D218835E200A14895 /* Utilities.swift in Sources */,
+				F5CAC16921883F4500A14895 /* JourneyHeadlineLabel.swift in Sources */,
+				F5CAC17B21883FA300A14895 /* TimelineRegularTableViewCell.swift in Sources */,
+				F5CAC159218833DF00A14895 /* Log.swift in Sources */,
+				F5CAC16721883F3700A14895 /* SearchResultTableViewCell.swift in Sources */,
+				F5CAC17521883F7C00A14895 /* CardView.swift in Sources */,
+				F5CAC1972188476C00A14895 /* Extension.swift in Sources */,
+				F5CAC17121883F6D00A14895 /* JourneySmallBodyLable.swift in Sources */,
+				F5CAC1892188425800A14895 /* MainTabVC.swift in Sources */,
+				F5CAC18F218842AA00A14895 /* TimeSelectionVC.swift in Sources */,
+				F5CAC17D21883FB000A14895 /* ArchivedTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -602,6 +794,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4YU39WUVXB;
 				INFOPLIST_FILE = journeyTests/Info.plist;
@@ -612,6 +805,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.notserious.journeyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/journey.app/journey";
@@ -624,6 +818,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4YU39WUVXB;
 				INFOPLIST_FILE = journeyTests/Info.plist;
@@ -634,6 +829,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.notserious.journeyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/journey.app/journey";
