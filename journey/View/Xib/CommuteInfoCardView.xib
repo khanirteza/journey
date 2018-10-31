@@ -73,7 +73,7 @@
                             <nil key="textColor"/>
                             <nil key="highlightedColor"/>
                         </label>
-                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="00 H 00 min" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n1X-Uh-0b1" customClass="VoyageTitleLabel" customModule="journey" customModuleProvider="target">
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="00 H 00 min" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n1X-Uh-0b1" customClass="JourneyTitleLabel" customModule="journey" customModuleProvider="target">
                             <rect key="frame" x="16" y="306" width="130" height="24"/>
                             <constraints>
                                 <constraint firstAttribute="height" constant="24" id="nQN-fg-PAb"/>

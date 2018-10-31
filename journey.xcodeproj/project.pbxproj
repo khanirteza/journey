@@ -111,7 +111,7 @@
 		F5CAC17E21883FD400A14895 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		F5CAC17F21883FD500A14895 /* Misc.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Misc.storyboard; sourceTree = "<group>"; };
 		F5CAC18221883FE900A14895 /* greetings.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = greetings.json; sourceTree = "<group>"; };
-		F5CAC1842188401C00A14895 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../GFL/Voyage/Voyage/Assets/Assets.xcassets; sourceTree = "<group>"; };
+		F5CAC1842188401C00A14895 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5CAC1852188401D00A14895 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		F5CAC1882188425800A14895 /* MainTabVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabVC.swift; sourceTree = "<group>"; };
 		F5CAC18A2188427300A14895 /* JourneyPlanningVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyPlanningVC.swift; sourceTree = "<group>"; };
