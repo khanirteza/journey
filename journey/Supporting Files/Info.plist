@@ -41,5 +41,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CalibreTest-Regular.otf</string>
+		<string>CalibreTest-Bold.otf</string>
+		<string>CalibreTest-Light.otf</string>
+		<string>CalibreTest-SemiBold.otf</string>
+	</array>
 </dict>
 </plist>

@@ -28,10 +28,10 @@ class Utilities{
     }
     
     enum Fonts: String {
-        case calibreRegular = "CalibreApp"
-        case calibreBold = "CalibreApp-Bold"
-        case calibreLight = "CalibreApp-Light"
-        case calibreSemiBold = "CalibreApp-SemiBold"
+        case calibreRegular = "CalibreTest-Regular"
+        case calibreBold = "CalibreTest-Bold"
+        case calibreLight = "CalibreTest-Light"
+        case calibreSemiBold = "CalibreTest-SemiBold"
     }
     
     enum TripCriteria: Int {

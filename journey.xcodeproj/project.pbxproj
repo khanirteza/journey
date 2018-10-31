@@ -45,6 +45,21 @@
 		F5CAC193218845B000A14895 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC192218845B000A14895 /* APIManager.swift */; };
 		F5CAC1952188468600A14895 /* AddressSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC1942188468600A14895 /* AddressSelectionVC.swift */; };
 		F5CAC1972188476C00A14895 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CAC1962188476C00A14895 /* Extension.swift */; };
+		F5CAC19921884B1E00A14895 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19821884B1E00A14895 /* Keys.plist */; };
+		F5CAC1A921884D1000A14895 /* CalibreTest-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */; };
+		F5CAC1AA21884D1000A14895 /* CalibreTest-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */; };
+		F5CAC1AB21884D1000A14895 /* CalibreTest-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */; };
+		F5CAC1AC21884D1000A14895 /* CalibreTest-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */; };
+		F5CAC1AD21884D1000A14895 /* CalibreTest-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */; };
+		F5CAC1AE21884D1000A14895 /* CalibreTest-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */; };
+		F5CAC1AF21884D1000A14895 /* CalibreTest-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */; };
+		F5CAC1B021884D1000A14895 /* CalibreTest-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */; };
+		F5CAC1B121884D1000A14895 /* CalibreTest-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */; };
+		F5CAC1B221884D1000A14895 /* CalibreTest-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */; };
+		F5CAC1B321884D1000A14895 /* CalibreTest-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */; };
+		F5CAC1B421884D1000A14895 /* CalibreTest-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */; };
+		F5CAC1B521884D1000A14895 /* CalibreTest-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */; };
+		F5CAC1B621884D1000A14895 /* CalibreTest-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */; };
 		F6420E0AFEFC1DD53D4CAAA1 /* Pods_journey.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 834945DB56CC289C544A9B2A /* Pods_journey.framework */; };
 /* End PBXBuildFile section */
 
@@ -106,6 +121,21 @@
 		F5CAC192218845B000A14895 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		F5CAC1942188468600A14895 /* AddressSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressSelectionVC.swift; sourceTree = "<group>"; };
 		F5CAC1962188476C00A14895 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		F5CAC19821884B1E00A14895 /* Keys.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
+		F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Thin.otf"; sourceTree = "<group>"; };
+		F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Black.otf"; sourceTree = "<group>"; };
+		F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-RegularItalic.otf"; sourceTree = "<group>"; };
+		F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-LightItalic.otf"; sourceTree = "<group>"; };
+		F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-SemiboldItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Medium.otf"; sourceTree = "<group>"; };
+		F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Light.otf"; sourceTree = "<group>"; };
+		F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-MediumItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Bold.otf"; sourceTree = "<group>"; };
+		F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-BoldItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Semibold.otf"; sourceTree = "<group>"; };
+		F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-ThinItalic.otf"; sourceTree = "<group>"; };
+		F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-Regular.otf"; sourceTree = "<group>"; };
+		F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CalibreTest-BlackItalic.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,7 +207,7 @@
 				F5CAC152218830D300A14895 /* Helper */,
 				F5CAC153218830D900A14895 /* Data */,
 				F5CAC14E2188307A00A14895 /* Supporting Files */,
-				F5CAC154218830F400A14895 /* Assets */,
+				F5CAC154218830F400A14895 /* Resources */,
 				F51C2BAF21882BAD00238857 /* Main.storyboard */,
 				F51C2BB421882BAF00238857 /* LaunchScreen.storyboard */,
 			);
@@ -198,6 +228,7 @@
 			children = (
 				F51C2BAB21882BAD00238857 /* AppDelegate.swift */,
 				F51C2BB721882BAF00238857 /* Info.plist */,
+				F5CAC19821884B1E00A14895 /* Keys.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -253,13 +284,14 @@
 			path = Data;
 			sourceTree = "<group>";
 		};
-		F5CAC154218830F400A14895 /* Assets */ = {
+		F5CAC154218830F400A14895 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				F5CAC1842188401C00A14895 /* Assets.xcassets */,
 				F5CAC1852188401D00A14895 /* Colors.xcassets */,
+				F5CAC19A21884CD000A14895 /* Calibre */,
 			);
-			path = Assets;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		F5CAC1552188311600A14895 /* Xib */ = {
@@ -299,6 +331,27 @@
 				F5CAC17F21883FD500A14895 /* Misc.storyboard */,
 			);
 			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		F5CAC19A21884CD000A14895 /* Calibre */ = {
+			isa = PBXGroup;
+			children = (
+				F5CAC19C21884CF900A14895 /* CalibreTest-Black.otf */,
+				F5CAC1A821884CFA00A14895 /* CalibreTest-BlackItalic.otf */,
+				F5CAC1A321884CF900A14895 /* CalibreTest-Bold.otf */,
+				F5CAC1A421884CFA00A14895 /* CalibreTest-BoldItalic.otf */,
+				F5CAC1A121884CF900A14895 /* CalibreTest-Light.otf */,
+				F5CAC19E21884CF900A14895 /* CalibreTest-LightItalic.otf */,
+				F5CAC1A021884CF900A14895 /* CalibreTest-Medium.otf */,
+				F5CAC1A221884CF900A14895 /* CalibreTest-MediumItalic.otf */,
+				F5CAC1A721884CFA00A14895 /* CalibreTest-Regular.otf */,
+				F5CAC19D21884CF900A14895 /* CalibreTest-RegularItalic.otf */,
+				F5CAC1A521884CFA00A14895 /* CalibreTest-Semibold.otf */,
+				F5CAC19F21884CF900A14895 /* CalibreTest-SemiboldItalic.otf */,
+				F5CAC19B21884CF800A14895 /* CalibreTest-Thin.otf */,
+				F5CAC1A621884CFA00A14895 /* CalibreTest-ThinItalic.otf */,
+			);
+			path = Calibre;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -390,8 +443,23 @@
 				F51C2BB621882BAF00238857 /* LaunchScreen.storyboard in Resources */,
 				F5CAC18321883FE900A14895 /* greetings.json in Resources */,
 				F5CAC18021883FD500A14895 /* Main.storyboard in Resources */,
+				F5CAC1B321884D1000A14895 /* CalibreTest-Semibold.otf in Resources */,
+				F5CAC1B121884D1000A14895 /* CalibreTest-Regular.otf in Resources */,
 				F51C2BB121882BAD00238857 /* Main.storyboard in Resources */,
+				F5CAC1B421884D1000A14895 /* CalibreTest-SemiboldItalic.otf in Resources */,
+				F5CAC1B521884D1000A14895 /* CalibreTest-Thin.otf in Resources */,
+				F5CAC1AA21884D1000A14895 /* CalibreTest-BlackItalic.otf in Resources */,
+				F5CAC1AC21884D1000A14895 /* CalibreTest-BoldItalic.otf in Resources */,
+				F5CAC1AB21884D1000A14895 /* CalibreTest-Bold.otf in Resources */,
+				F5CAC1A921884D1000A14895 /* CalibreTest-Black.otf in Resources */,
+				F5CAC19921884B1E00A14895 /* Keys.plist in Resources */,
+				F5CAC1B621884D1000A14895 /* CalibreTest-ThinItalic.otf in Resources */,
+				F5CAC1B021884D1000A14895 /* CalibreTest-MediumItalic.otf in Resources */,
+				F5CAC1B221884D1000A14895 /* CalibreTest-RegularItalic.otf in Resources */,
+				F5CAC1AD21884D1000A14895 /* CalibreTest-Light.otf in Resources */,
 				F5CAC1862188401D00A14895 /* Assets.xcassets in Resources */,
+				F5CAC1AF21884D1000A14895 /* CalibreTest-Medium.otf in Resources */,
+				F5CAC1AE21884D1000A14895 /* CalibreTest-LightItalic.otf in Resources */,
 				F5CAC15F21883E5C00A14895 /* CommuteInfoCardView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -728,7 +796,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4YU39WUVXB;
 				INFOPLIST_FILE = journeyTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -752,7 +820,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4YU39WUVXB;
 				INFOPLIST_FILE = journeyTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
